@@ -1,6 +1,4 @@
 # diagram.py
-import imp
-import webbrowser
 from diagrams import Diagram,Cluster
 from diagrams.azure.compute import VM
 from diagrams.azure.database import SQLVM
